@@ -1,0 +1,1 @@
+C:\Users\fabri\source\repos\TP3-PDMI6\LogisticaRastreamento\LogisticaRastreamento\LogisticaRastreamento.csproj;x64
